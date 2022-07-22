@@ -5,7 +5,9 @@ from common.cv_data import cv_data
 
 
 class CurriculumVitaeTestCase(APITestCase):
-
+    """
+    Test the CurriculumVitae API endpoints
+    """
     def test_get_about(self):
         response = self.client.get('/api/about/')
         self.assertEqual(response.data['value'], cv_data['about'])

@@ -6,7 +6,9 @@ from common.cv_data import cv_data
 
 
 class CurriculumVitaeViewSet(ViewSet):
-
+    """
+    API endpoints that allow viewing the info from the Curriculum Vitae
+    """
     @action(detail=False, methods=['GET'], url_path='about', url_name='about')
     def about(self, request, *args, **kwargs):
         return Response(

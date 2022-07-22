@@ -1,10 +1,9 @@
 cv_data = {
-    'about': "Personal profile: A software developer, eager to expand the current knowledge base and learn modern "
+    'about': "A software developer, eager to expand the current knowledge base and learn modern "
              "and useful technologies to make the world a better place. An open-minded team player with strong "
              "soft skills that can quickly adapt to a new environment.",
 
-    'experience': "Work experience: \n"
-                  "Feb 2022 - July 2022: Python Developer at EBS Integrator \n"
+    'experience': "Feb 2022 - July 2022: Python Developer at EBS Integrator \n"
                   "Developed RESTful APIs for projects like online shops, online education, HRM, and CRM \n"
                   "Worked on: Implementation of new models and business logic, integration with other services "
                   "automatic periodic tasks, CI/CD pipelines, unit testing \n"
@@ -23,8 +22,7 @@ cv_data = {
                   "Sep 2019 - Jul 2022: ICT Teacher at STEP IT Academy \n"
                   " Taught 8-14 years old kids modern technology like 3D Printing, VR & AR, Video Games Development.",
 
-    'education': "Educational history: \n"
-                 "Sep 2018 - Jul 2022, Technical University of Moldova \n"
+    'education': "Sep 2018 - Jul 2022, Technical University of Moldova \n"
                  "BA in Computer Science \n"
                  "\n"
                  "Studied the main concepts of the IT industry: Algorithms & Data Structures, OOP, Design Patterns & "
@@ -32,8 +30,7 @@ cv_data = {
                  "Learned programming languages: Python, C#, JS, TS \n"
                  "Developed a Sudoku mobile game using Django and Flutter.",
 
-    'volunteering': "Volunteering experience: \n"
-                    "Oct 2018 - Dec 2019: Active member at BEST Chisinau \n"
+    'volunteering': "Oct 2018 - Dec 2019: Active member at BEST Chisinau \n"
                     "As a Team-Leader successfully completed the event Planning, Execution, Monitoring "
                     "& Control and Closure phases of the project \n"
                     "Directly responsible for creating Gantt Chart, Budget, Project Dairy, Risk Log, "
