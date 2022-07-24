@@ -3,9 +3,9 @@ A virtual environment  is necessary in order to start the project. Create one in
 ```sh
 python -m venv venv
 ```
-Activate the enviornment by going to venv/Scripts and type 'activate' in  the command line
+Activate the environment by going to venv/Scripts and typing 'activate' in  the command line
 
-Afterwards make sure to install the required libraries for the project using the following command from the source folder of the project:
+Afterward, make sure to install the required libraries for the project using the following command from the source folder of the project:
 
 ```sh
 pip install -r requirements.txt
@@ -29,7 +29,7 @@ The purpose of this API is to show information about the candidate from his Curr
 - To get data about the soft skills that the candidate posses use: http://127.0.0.1:8000/api/soft-skills/
 - To get data about the technical skills that the candidate posses use: http://127.0.0.1:8000/api/technical-skills/
 - To get information about the languages the candidate can speak use: http://127.0.0.1:8000/api/languages/
-- To get data about the awards and certifications the candidate has recieved, use: http://127.0.0.1:8000/api/awards/
+- To get data about the awards and certifications the candidate has received, use: http://127.0.0.1:8000/api/awards/
 - To get data about the candidate's hobbies use: http://127.0.0.1:8000/api/hobbies/
 - To get the contact information of the candidate use: http://127.0.0.1:8000/api/contacts/
 
