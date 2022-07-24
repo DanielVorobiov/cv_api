@@ -3,6 +3,8 @@ A virtual environment  is necessary in order to start the project. Create one in
 ```sh
 python -m venv venv
 ```
+Activate the enviornment by going to venv/Scripts and type 'activate' in  the command line
+
 Afterwards make sure to install the required libraries for the project using the following command from the source folder of the project:
 
 ```sh
